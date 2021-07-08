@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solidedge
+- 👋 Hi, I’m Ole
 - 👀 I’m interested in BLE, programming, music, product development, technology and the great outdoors.
 - 🌱 I’m currently learning ... Mobile application development and GPS tracking
 - 💞️ I’m looking to collaborate on ... Try me? 
