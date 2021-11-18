@@ -13,13 +13,13 @@ I come from the land of the ice and snow, from the city of Tromsø. I'm mostly i
 <br>
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solidedge&layout=default&langs_count=10">
 
-<br>
 
 <img align="left" width="100" height="100" src="https://www.svgrepo.com/show/375767/brush-pencil.svg">
 
 ### Current studies/ projects
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solidedge&layout=default&langs_count=10">
 At the moment I'm learning python and looking into GPS tracking.
 
 <br><br>
@@ -41,6 +41,8 @@ I have yet to setup an easy and private way to reach me, until then I'm through 
 
 <br>
 <br>
+
+
 
 
 ## Experience
