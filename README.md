@@ -37,7 +37,8 @@ I have yet to setup an easy and private way to reach me, until then I'm through 
 <img align="left" width="100" height="100" src="https://www.svgrepo.com/show/375766/browser.svg">
 
 ### Publications
-- [Optimizing BLE MIDI with regards to timing](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/optimizing-ble-midi-with-regards-to-timing-1293631358)
+[Optimizing BLE MIDI with regards to timing](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/optimizing-ble-midi-with-regards-to-timing-1293631358)
+
 
 <br>
 <br>
