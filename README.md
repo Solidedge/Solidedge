@@ -3,7 +3,7 @@ I come from the land of the ice and snow, from the city of Tromsø. I'm mostly i
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Solidedge&show_icons=false&include_all_commits=true&count_private=true&custom_title=Stats">
 
- <ul>
+<ul>
   <li>Have a BSc in <b> Electrical engineering </b></li>
   <li>Located at Innlandet in Norway</li>
   <li>Currently looking for work</li>
@@ -14,6 +14,8 @@ I come from the land of the ice and snow, from the city of Tromsø. I'm mostly i
 <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solidedge&layout=default&langs_count=10">
+
+<br>
 
 <img align="left" width="100" height="100" src="https://www.svgrepo.com/show/375767/brush-pencil.svg">
 
