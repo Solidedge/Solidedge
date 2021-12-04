@@ -5,6 +5,7 @@ I come from the land of the ice and snow, from the city of Tromsø. I'm mostly i
 
 <ul>
   <li>Have a BSc in <b> Electrical engineering </b></li>
+  <li>Experience in <b> R&D </b></li>
   <li>Located at Innlandet in Norway</li>
   <li>Currently looking for work</li>
   <li>Name is pronounced [ˈûːlə]</li>
