@@ -9,6 +9,7 @@ I come from the land of the ice and snow, from the city of Tromsø. I'm mostly i
   <li>Located at Innlandet in Norway</li>
   <li>Currently looking for work</li>
   <li>Name is pronounced [ˈûːlə]</li>
+  <li>Musician and Outdoorsman [ˈûːlə]</li>
 </ul>
 <br>
 <br>
