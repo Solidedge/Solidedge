@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! 👋 I’m Ole! </h1>
-I come from the land of the ice and snow, from the midnight sun where the city of Tromsø. I'm mostly interested in <b> embedded, product-development, electronics </b>. Private projects are usually related to music, hiking/trekking or homeautomation. Quick facts about me:
+I come from the land of the ice and snow, from the midnight sun where the city of Tromsø lies. I'm mostly interested in <b> embedded, product-development, electronics </b>. Private projects are usually related to music, hiking/trekking or homeautomation. Quick facts about me:
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Solidedge&show_icons=false&include_all_commits=true&count_private=true&custom_title=Stats">
 
