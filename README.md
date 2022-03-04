@@ -1,15 +1,15 @@
 <h1 align="center"> Hi! 👋 I’m Ole! </h1>
-I come from the land of the ice and snow, from the city of Tromsø. I'm mostly interested in <b> embedded, product-development, electronics </b>. Private projects are usually based in music, hiking/trekking or homeautomation. Quick facts about me:
+I come from the land of the ice and snow, from the midnight sun where the city of Tromsø. I'm mostly interested in <b> embedded, product-development, electronics </b>. Private projects are usually related to music, hiking/trekking or homeautomation. Quick facts about me:
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Solidedge&show_icons=false&include_all_commits=true&count_private=true&custom_title=Stats">
 
 <ul>
   <li>Have a BSc in <b> Electrical engineering </b></li>
-  <li>Experience in <b> R&D </b></li>
-  <li>Located at Innlandet in Norway</li>
-  <li>Currently looking for work</li>
+  <li>Experience in <b> Embedded R&D </b></li>
+  <li>Located at ___ in Norway</li>
+  <li>Musician and Outdoorsman, other intere</li>
+  <li>Interests include: </li>
   <li>Name is pronounced [ˈûːlə]</li>
-  <li>Musician and Outdoorsman</li>
 </ul>
 <br>
 <br>
@@ -29,10 +29,7 @@ At the moment I'm learning python and looking into GPS tracking.
 <img align="left" width="100" height="100" src="https://www.svgrepo.com/show/375789/contacts.svg">
 
 ### Contact Me 
-I have yet to setup an easy and private way to reach me, until then I'm through by LinkedIn (in Norwegian).   <a href="https://www.linkedin.com/in/bjerkemo/"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-
-<!--- ![Element](https://img.shields.io/badge/-Element-0DBD8B?style=flat&logo=element&logoColor=white)
-![Mastodon](https://img.shields.io/badge/-Mastodon-3088D4?style=flat&logo=mastodon&logoColor=white) --->
+I have yet to setup an easy and private way to reach me...
 
 <br><br>
 
