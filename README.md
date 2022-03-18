@@ -6,9 +6,8 @@ I come from the land of the ice and snow, from the midnight sun where the city o
 <ul>
   <li>Have a BSc in <b> Electrical engineering </b></li>
   <li>Experience in <b> Embedded R&D </b></li>
-  <li>Located at ___ in Norway</li>
-  <li>Musician and Outdoorsman, other intere</li>
-  <li>Interests include: </li>
+  <li>Located south-east in Norway</li>
+  <li>Musician and Outdoorsman </li>
   <li>Name is pronounced [ˈûːlə]</li>
 </ul>
 <br>
